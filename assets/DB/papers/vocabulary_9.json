@@ -1,0 +1,239 @@
+{
+    "id": "vppr009",
+    "title": "Vocabulary_9",
+    "image_url": "",
+    "Description": "Assess your English vocabulary skills. Includes multiple-choice questions.Good luck!",
+    "time_seconds": 900,
+    "questions": [
+        {
+            "id": "vppr009q001",
+            "question": " ________ you hurry up, you'll miss the bus.",
+            "answers": [
+                {
+                    "identifier": "A",
+                    "Answer": "Because"
+                },
+                {
+                    "identifier": "B",
+                    "Answer": "If"
+                },
+                {
+                    "identifier": "C",
+                    "Answer": "Unless"
+                },
+                {
+                    "identifier": "D",
+                    "Answer": "Also"
+                }
+            ],
+            "correct_answer": "C"
+        },
+        {
+            "id": "vppr009q002",
+            "question": "The man jumped out of the window and committed ________.",
+            "answers": [
+                {
+                    "identifier": "A",
+                    "Answer": "murder"
+                },
+                {
+                    "identifier": "B",
+                    "Answer": "death"
+                },
+                {
+                    "identifier": "C",
+                    "Answer": "sin"
+                },
+                {
+                    "identifier": "D",
+                    "Answer": "suicide"
+                }
+            ],
+            "correct_answer": "D"
+        },
+        {
+            "id": "vppr009q003",
+            "question": "I was walking along the street when I accidentally _______ my friend.",
+            "answers": [
+                {
+                    "identifier": "A",
+                    "Answer": "bumped into"
+                },
+                {
+                    "identifier": "B",
+                    "Answer": "moved into"
+                },
+                {
+                    "identifier": "C",
+                    "Answer": "came into"
+                },
+                {
+                    "identifier": "D",
+                    "Answer": "fell into"
+                }
+            ],
+            "correct_answer": "A"
+        },
+        {
+            "id": "vppr009q004",
+            "question": "The doctor took his temperature and felt his ________.",
+            "answers": [
+                {
+                    "identifier": "A",
+                    "Answer": "vein"
+                },
+                {
+                    "identifier": "B",
+                    "Answer": "nerve"
+                },
+                {
+                    "identifier": "C",
+                    "Answer": "blood"
+                },
+                {
+                    "identifier": "D",
+                    "Answer": "pulse"
+                }
+            ],
+            "correct_answer": "D"
+        },
+        {
+            "id": "vppr009q005",
+            "question": "It's my ________ that it's going to rain.",
+            "answers": [
+                {
+                    "identifier": "A",
+                    "Answer": "option"
+                },
+                {
+                    "identifier": "B",
+                    "Answer": "opinion"
+                },
+                {
+                    "identifier": "C",
+                    "Answer": "intention"
+                },
+                {
+                    "identifier": "D",
+                    "Answer": "decision"
+                }
+            ],
+            "correct_answer": "B"
+        },
+        {
+            "id": "vppr009q006",
+            "question": "This book is too ________, I don't understand it.",
+            "answers": [
+                {
+                    "identifier": "A",
+                    "Answer": "secret"
+                },
+                {
+                    "identifier": "B",
+                    "Answer": "opaque"
+                },
+                {
+                    "identifier": "C",
+                    "Answer": "dark"
+                },
+                {
+                    "identifier": "D",
+                    "Answer": "obscure"
+                }
+            ],
+            "correct_answer": "D"
+        },
+        {
+            "id": "vppr009q007",
+            "question": "She was very inquisitive and she didn't ________ to hide her curiosity.",
+            "answers": [
+                {
+                    "identifier": "A",
+                    "Answer": "effect"
+                },
+                {
+                    "identifier": "B",
+                    "Answer": "affect"
+                },
+                {
+                    "identifier": "C",
+                    "Answer": "attempt"
+                },
+                {
+                    "identifier": "D",
+                    "Answer": "discover"
+                }
+            ],
+            "correct_answer": "C"
+        },
+        {
+            "id": "vppr009q008",
+            "question": "She wanted to buy a modern dress, she didn't want an old-________ one.",
+            "answers": [
+                {
+                    "identifier": "A",
+                    "Answer": "styled"
+                },
+                {
+                    "identifier": "B",
+                    "Answer": "formed"
+                },
+                {
+                    "identifier": "C",
+                    "Answer": "looked"
+                },
+                {
+                    "identifier": "D",
+                    "Answer": "fashioned"
+                }
+            ],
+            "correct_answer": "D"
+        },
+        {
+            "id": "vppr009q009",
+            "question": "What ________ is your car?",
+            "answers": [
+                {
+                    "identifier": "A",
+                    "Answer": "manufacture"
+                },
+                {
+                    "identifier": "B",
+                    "Answer": "construction"
+                },
+                {
+                    "identifier": "C",
+                    "Answer": "make"
+                },
+                {
+                    "identifier": "D",
+                    "Answer": "mark"
+                }
+            ],
+            "correct_answer": "C"
+        },
+        {
+            "id": "vppr009q010",
+            "question": "He was a very ________ driver and had a lot of accidents.",
+            "answers": [
+                {
+                    "identifier": "A",
+                    "Answer": "careful"
+                },
+                {
+                    "identifier": "B",
+                    "Answer": "careless"
+                },
+                {
+                    "identifier": "C",
+                    "Answer": "correct"
+                },
+                {
+                    "identifier": "D",
+                    "Answer": "cautious"
+                }
+            ],
+            "correct_answer": "B"
+        }
+    ]
+}

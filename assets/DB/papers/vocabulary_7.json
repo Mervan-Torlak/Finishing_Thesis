@@ -1,0 +1,239 @@
+{
+    "id": "vppr007",
+    "title": "Vocabulary_7",
+    "image_url": "",
+    "Description": "Assess your English vocabulary skills. Includes multiple-choice questions.Good luck!",
+    "time_seconds": 900,
+    "questions": [
+        {
+            "id": "vppr007q001",
+            "question": "Many poets have ________ the beauties of the countryside.",
+            "answers": [
+                {
+                    "identifier": "A",
+                    "Answer": "applauded"
+                },
+                {
+                    "identifier": "B",
+                    "Answer": "enthused"
+                },
+                {
+                    "identifier": "C",
+                    "Answer": "extolled"
+                },
+                {
+                    "identifier": "D",
+                    "Answer": "enamored"
+                }
+            ],
+            "correct_answer": "C"
+        },
+        {
+            "id": "vppr007q002",
+            "question": "When the student graduated, he got his ________.",
+            "answers": [
+                {
+                    "identifier": "A",
+                    "Answer": "paper"
+                },
+                {
+                    "identifier": "B",
+                    "Answer": "degree"
+                },
+                {
+                    "identifier": "C",
+                    "Answer": "license"
+                },
+                {
+                    "identifier": "D",
+                    "Answer": "pension"
+                }
+            ],
+            "correct_answer": "B"
+        },
+        {
+            "id": "vppr007q003",
+            "question": "She didn't ________ doing the washing up, as she hadn't wanted to go out anyway.",
+            "answers": [
+                {
+                    "identifier": "A",
+                    "Answer": "object"
+                },
+                {
+                    "identifier": "B",
+                    "Answer": "mind"
+                },
+                {
+                    "identifier": "C",
+                    "Answer": "care"
+                },
+                {
+                    "identifier": "D",
+                    "Answer": "matter"
+                }
+            ],
+            "correct_answer": "B"
+        },
+        {
+            "id": "vppr007q004",
+            "question": "The tremor in his voice ________ his nervousness.",
+            "answers": [
+                {
+                    "identifier": "A",
+                    "Answer": "affirmed"
+                },
+                {
+                    "identifier": "B",
+                    "Answer": "pronounced"
+                },
+                {
+                    "identifier": "C",
+                    "Answer": "disguised"
+                },
+                {
+                    "identifier": "D",
+                    "Answer": "revealed"
+                }
+            ],
+            "correct_answer": "D"
+        },
+        {
+            "id": "vppr007q005",
+            "question": " Although I tried to concentrate on the lectures, I was ________ by the noise from the next room.",
+            "answers": [
+                {
+                    "identifier": "A",
+                    "Answer": "dissuaded"
+                },
+                {
+                    "identifier": "B",
+                    "Answer": "averted"
+                },
+                {
+                    "identifier": "C",
+                    "Answer": "repressed"
+                },
+                {
+                    "identifier": "D",
+                    "Answer": "distracted"
+                }
+            ],
+            "correct_answer": "D"
+        },
+        {
+            "id": "vppr007q006",
+            "question": "I ________ what her name is; I'm sure I know her face.",
+            "answers": [
+                {
+                    "identifier": "A",
+                    "Answer": "remember"
+                },
+                {
+                    "identifier": "B",
+                    "Answer": "wonder"
+                },
+                {
+                    "identifier": "C",
+                    "Answer": "guess"
+                },
+                {
+                    "identifier": "D",
+                    "Answer": "suspect"
+                }
+            ],
+            "correct_answer": "B"
+        },
+        {
+            "id": "vppr007q007",
+            "question": " ‘I ________ that one', said the tourist, pointing for the benefit of the uncomprehending shopkeeper.",
+            "answers": [
+                {
+                    "identifier": "A",
+                    "Answer": "want"
+                },
+                {
+                    "identifier": "B",
+                    "Answer": "wish"
+                },
+                {
+                    "identifier": "C",
+                    "Answer": "take"
+                },
+                {
+                    "identifier": "D",
+                    "Answer": "desire"
+                }
+            ],
+            "correct_answer": "A"
+        },
+        {
+            "id": "vppr007q008",
+            "question": "I do not ________ to be clever but I am not stupid.",
+            "answers": [
+                {
+                    "identifier": "A",
+                    "Answer": "permit"
+                },
+                {
+                    "identifier": "B",
+                    "Answer": "classify"
+                },
+                {
+                    "identifier": "C",
+                    "Answer": "confess"
+                },
+                {
+                    "identifier": "D",
+                    "Answer": "claim"
+                }
+            ],
+            "correct_answer": "D"
+        },
+        {
+            "id": "vppr007q009",
+            "question": "After the Cabinet reshuffle, the Minister wasn't very happy at his new ________.",
+            "answers": [
+                {
+                    "identifier": "A",
+                    "Answer": "job"
+                },
+                {
+                    "identifier": "B",
+                    "Answer": "post"
+                },
+                {
+                    "identifier": "C",
+                    "Answer": "work"
+                },
+                {
+                    "identifier": "D",
+                    "Answer": "shift"
+                }
+            ],
+            "correct_answer": "B"
+        },
+        {
+            "id": "vppr007q010",
+            "question": " Children under the age of 16 are not ________ to enter for the competition",
+            "answers": [
+                {
+                    "identifier": "A",
+                    "Answer": "enabled"
+                },
+                {
+                    "identifier": "B",
+                    "Answer": "empowered"
+                },
+                {
+                    "identifier": "C",
+                    "Answer": "capable"
+                },
+                {
+                    "identifier": "D",
+                    "Answer": "eligible"
+                }
+            ],
+            "correct_answer": "D"
+        }
+    ]
+}

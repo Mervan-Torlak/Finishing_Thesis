@@ -1,0 +1,239 @@
+{
+    "id": "vppr008",
+    "title": "Vocabulary_8",
+    "image_url": "",
+    "Description": "Assess your English vocabulary skills. Includes multiple-choice questions.Good luck!",
+    "time_seconds": 900,
+    "questions": [
+        {
+            "id": "vppr008q001",
+            "question": "Yesterday the pound fell to a ________ low level against the dollar, according to this morning news.",
+            "answers": [
+                {
+                    "identifier": "A",
+                    "Answer": "final"
+                },
+                {
+                    "identifier": "B",
+                    "Answer": "major"
+                },
+                {
+                    "identifier": "C",
+                    "Answer": "record"
+                },
+                {
+                    "identifier": "D",
+                    "Answer": "remote"
+                }
+            ],
+            "correct_answer": "C"
+        },
+        {
+            "id": "vppr008q002",
+            "question": "Even the most detached and indifferent spectator can be ________ away by enthusiasm at a horserace.",
+            "answers": [
+                {
+                    "identifier": "A",
+                    "Answer": "carried"
+                },
+                {
+                    "identifier": "B",
+                    "Answer": "moved"
+                },
+                {
+                    "identifier": "C",
+                    "Answer": "excited"
+                },
+                {
+                    "identifier": "D",
+                    "Answer": "stirred"
+                }
+            ],
+            "correct_answer": "A"
+        },
+        {
+            "id": "vppr008q003",
+            "question": "The young performers ________ and held the audience's attention from the moment the curtain went up.",
+            "answers": [
+                {
+                    "identifier": "A",
+                    "Answer": "caught"
+                },
+                {
+                    "identifier": "B",
+                    "Answer": "gathered"
+                },
+                {
+                    "identifier": "C",
+                    "Answer": "snatched"
+                },
+                {
+                    "identifier": "D",
+                    "Answer": "took"
+                }
+            ],
+            "correct_answer": "A"
+        },
+        {
+            "id": "vppr008q004",
+            "question": "She was very ________ when I told her my pet dog had died.",
+            "answers": [
+                {
+                    "identifier": "A",
+                    "Answer": "sympathetic"
+                },
+                {
+                    "identifier": "B",
+                    "Answer": "just"
+                },
+                {
+                    "identifier": "C",
+                    "Answer": "helpful"
+                },
+                {
+                    "identifier": "D",
+                    "Answer": "pitiful"
+                }
+            ],
+            "correct_answer": "A"
+        },
+        {
+            "id": "vppr008q005",
+            "question": "What were John and Mary ________ about when you came into the room?",
+            "answers": [
+                {
+                    "identifier": "A",
+                    "Answer": "speaking"
+                },
+                {
+                    "identifier": "B",
+                    "Answer": "saying"
+                },
+                {
+                    "identifier": "C",
+                    "Answer": "talking"
+                },
+                {
+                    "identifier": "D",
+                    "Answer": "discussing"
+                }
+            ],
+            "correct_answer": "C"
+        },
+        {
+            "id": "vppr008q006",
+            "question": " I don't smoke, but I don't object to ________ people smoking.",
+            "answers": [
+                {
+                    "identifier": "A",
+                    "Answer": "different"
+                },
+                {
+                    "identifier": "B",
+                    "Answer": "another"
+                },
+                {
+                    "identifier": "C",
+                    "Answer": "other"
+                },
+                {
+                    "identifier": "D",
+                    "Answer": "alternative"
+                }
+            ],
+            "correct_answer": "C"
+        },
+        {
+            "id": "vppr008q007",
+            "question": "I like your new red dress, the color ________ you.",
+            "answers": [
+                {
+                    "identifier": "A",
+                    "Answer": "fits"
+                },
+                {
+                    "identifier": "B",
+                    "Answer": "looks"
+                },
+                {
+                    "identifier": "C",
+                    "Answer": "suits"
+                },
+                {
+                    "identifier": "D",
+                    "Answer": "likes"
+                }
+            ],
+            "correct_answer": "C"
+        },
+        {
+            "id": "vppr008q008",
+            "question": "Mr. Jones wants to know if he can have a ________ with you.",
+            "answers": [
+                {
+                    "identifier": "A",
+                    "Answer": "argument"
+                },
+                {
+                    "identifier": "B",
+                    "Answer": "word"
+                },
+                {
+                    "identifier": "C",
+                    "Answer": "lecture"
+                },
+                {
+                    "identifier": "D",
+                    "Answer": "speech"
+                }
+            ],
+            "correct_answer": "B"
+        },
+        {
+            "id": "vppr008q009",
+            "question": " Mrs. Brown has cleaned the house from ________ to bottom.",
+            "answers": [
+                {
+                    "identifier": "A",
+                    "Answer": "attic"
+                },
+                {
+                    "identifier": "B",
+                    "Answer": "top"
+                },
+                {
+                    "identifier": "C",
+                    "Answer": " first floor"
+                },
+                {
+                    "identifier": "D",
+                    "Answer": "roof"
+                }
+            ],
+            "correct_answer": "B"
+        },
+        {
+            "id": "vppr008q010",
+            "question": "Alice is tall and slim and has a beautiful ________.",
+            "answers": [
+                {
+                    "identifier": "A",
+                    "Answer": "position"
+                },
+                {
+                    "identifier": "B",
+                    "Answer": "shape"
+                },
+                {
+                    "identifier": "C",
+                    "Answer": "form"
+                },
+                {
+                    "identifier": "D",
+                    "Answer": "figure"
+                }
+            ],
+            "correct_answer": "D"
+        }
+    ]
+}

@@ -1,0 +1,239 @@
+{
+    "id": "vppr006",
+    "title": "Vocabulary_6",
+    "image_url": "",
+    "Description": "Assess your English vocabulary skills. Includes multiple-choice questions.Good luck!",
+    "time_seconds": 900,
+    "questions": [
+        {
+            "id": "vppr006q001",
+            "question": "What measures have been ________ to control the crowd at Saturday's football match?",
+            "answers": [
+                {
+                    "identifier": "A",
+                    "Answer": "imagined"
+                },
+                {
+                    "identifier": "B",
+                    "Answer": "made"
+                },
+                {
+                    "identifier": "C",
+                    "Answer": "given"
+                },
+                {
+                    "identifier": "D",
+                    "Answer": "taken"
+                }
+            ],
+            "correct_answer": "D"
+        },
+        {
+            "id": "vppr006q002",
+            "question": "He left in such a hurry that I ________ had time to thank him.",
+            "answers": [
+                {
+                    "identifier": "A",
+                    "Answer": "scarcely"
+                },
+                {
+                    "identifier": "B",
+                    "Answer": "almost"
+                },
+                {
+                    "identifier": "C",
+                    "Answer": "even"
+                },
+                {
+                    "identifier": "D",
+                    "Answer": "nearly"
+                }
+            ],
+            "correct_answer": "A"
+        },
+        {
+            "id": "vppr006q003",
+            "question": "He gave me some very ________ advice on buying a house.",
+            "answers": [
+                {
+                    "identifier": "A",
+                    "Answer": "precious"
+                },
+                {
+                    "identifier": "B",
+                    "Answer": "valuable"
+                },
+                {
+                    "identifier": "C",
+                    "Answer": "dear"
+                },
+                {
+                    "identifier": "D",
+                    "Answer": "prized"
+                }
+            ],
+            "correct_answer": "B"
+        },
+        {
+            "id": "vppr006q004",
+            "question": "To get my travelers' cheques I had to ________ a special cheque to the Bank for the total amount",
+            "answers": [
+                {
+                    "identifier": "A",
+                    "Answer": "make for"
+                },
+                {
+                    "identifier": "B",
+                    "Answer": "make off"
+                },
+                {
+                    "identifier": "C",
+                    "Answer": "make out"
+                },
+                {
+                    "identifier": "D",
+                    "Answer": "makeover"
+                }
+            ],
+            "correct_answer": "C"
+        },
+        {
+            "id": "vppr006q005",
+            "question": " If we can ________ our present difficulties, then everything should be all right.",
+            "answers": [
+                {
+                    "identifier": "A",
+                    "Answer": "get off"
+                },
+                {
+                    "identifier": "B",
+                    "Answer": "come across"
+                },
+                {
+                    "identifier": "C",
+                    "Answer": "come over"
+                },
+                {
+                    "identifier": "D",
+                    "Answer": "get over"
+                }
+            ],
+            "correct_answer": "D"
+        },
+        {
+            "id": "vppr006q006",
+            "question": "I'm ________ to get the tickets for the show today, as there are hardly any left.",
+            "answers": [
+                {
+                    "identifier": "A",
+                    "Answer": "worried"
+                },
+                {
+                    "identifier": "B",
+                    "Answer": "curious"
+                },
+                {
+                    "identifier": "C",
+                    "Answer": "anxious"
+                },
+                {
+                    "identifier": "D",
+                    "Answer": "afraid"
+                }
+            ],
+            "correct_answer": "C"
+        },
+        {
+            "id": "vppr006q007",
+            "question": "His landlady gave him a week's ________ to leave the flat.",
+            "answers": [
+                {
+                    "identifier": "A",
+                    "Answer": "threat"
+                },
+                {
+                    "identifier": "B",
+                    "Answer": "notice"
+                },
+                {
+                    "identifier": "C",
+                    "Answer": "advice"
+                },
+                {
+                    "identifier": "D",
+                    "Answer": "caution"
+                }
+            ],
+            "correct_answer": "B"
+        },
+        {
+            "id": "vppr006q008",
+            "question": " A completely new situation is likely to ________ when the school leaving age is raised to 16.",
+            "answers": [
+                {
+                    "identifier": "A",
+                    "Answer": "affect"
+                },
+                {
+                    "identifier": "B",
+                    "Answer": "rise"
+                },
+                {
+                    "identifier": "C",
+                    "Answer": "arise"
+                },
+                {
+                    "identifier": "D",
+                    "Answer": "raise"
+                }
+            ],
+            "correct_answer": "C"
+        },
+        {
+            "id": "vppr006q009",
+            "question": "We forgave his bad temper because we knew that his son's illness had put him under great ________.",
+            "answers": [
+                {
+                    "identifier": "A",
+                    "Answer": "emotion"
+                },
+                {
+                    "identifier": "B",
+                    "Answer": "excitement"
+                },
+                {
+                    "identifier": "C",
+                    "Answer": "crisis"
+                },
+                {
+                    "identifier": "D",
+                    "Answer": "stress"
+                }
+            ],
+            "correct_answer": "D"
+        },
+        {
+            "id": "vppr006q010",
+            "question": "A competitor may submit any number of entries ________ each one is accompanied by a registration fee.",
+            "answers": [
+                {
+                    "identifier": "A",
+                    "Answer": "guaranteeing"
+                },
+                {
+                    "identifier": "B",
+                    "Answer": "insuring"
+                },
+                {
+                    "identifier": "C",
+                    "Answer": "allowing"
+                },
+                {
+                    "identifier": "D",
+                    "Answer": "providing"
+                }
+            ],
+            "correct_answer": "D"
+        }
+    ]
+}
